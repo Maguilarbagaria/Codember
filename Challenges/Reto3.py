@@ -41,7 +41,7 @@ lastColorLongestChain = ''
 lastColor = ''
 nextColor = colors[2]
 
-for color in ['red','red','blue','red']:
+for color in colors:
     if color != nextColor or lastColor == color:
         chainLength = 1
 
