@@ -15,7 +15,7 @@
 
 |Challenge Number|Solution|
 |----------------|--------|
-|01 ¡Arregla Twitter!:construction: | Solution 01!|
-|02 ¡Atrapa a esos ciber criminales!:fishing_pole_and_fish: | Solution 02!|
-|03 La zebra de colores:rainbow:| Solution 03!|
-|04 Encuentra la contraseña de tu amigo:key:| Solution 04!|
+|01 ¡Arregla Twitter!:construction: | [Solution 01!](Challenges/Reto1.py)|
+|02 ¡Atrapa a esos ciber criminales!:fishing_pole_and_fish: | [Solution 02!](Challenges/Reto2.py)|
+|03 La zebra de colores:rainbow:| [Solution 03!](Challenges/Reto3.py)|
+|04 Encuentra la contraseña de tu amigo:key:| [Solution 04!](Challenges/Reto4.py)|
