@@ -19,3 +19,4 @@
 |02 ¡Atrapa a esos ciber criminales!:fishing_pole_and_fish: | [Solution 02!](Challenges/Reto2.py)|
 |03 La zebra de colores:rainbow:| [Solution 03!](Challenges/Reto3.py)|
 |04 Encuentra la contraseña de tu amigo:key:| [Solution 04!](Challenges/Reto4.py)|
+|05: Battle Royale de frameworks y bibliotecas :military_helmet:\ [Solution 05!](Challenges/Reto5.py)|
